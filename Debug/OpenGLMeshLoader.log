@@ -1,0 +1,13 @@
+﻿D:\Apps\VS\pro\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGL3DTemplate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OpenGLMeshLoader19.cpp
+D:\github\other\EscapeTheIsland\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\github\other\EscapeTheIsland\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\github\other\EscapeTheIsland\OpenGLMeshLoader19.cpp(652,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\github\other\EscapeTheIsland\OpenGLMeshLoader19.cpp(661,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\github\other\EscapeTheIsland\OpenGLMeshLoader19.cpp(671,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\github\other\EscapeTheIsland\OpenGLMeshLoader19.cpp(677,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\github\other\EscapeTheIsland\OpenGLMeshLoader19.cpp(688,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\github\other\EscapeTheIsland\OpenGLMeshLoader19.cpp(691,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\github\other\EscapeTheIsland\OpenGLMeshLoader19.cpp(712,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> D:\github\other\EscapeTheIsland\Debug\OpenGLMeshLoader19.exe

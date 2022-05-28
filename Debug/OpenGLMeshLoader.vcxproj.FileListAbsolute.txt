@@ -1,0 +1,2 @@
+C:\GUC\semester 5\Computer Graphics\project\labs\OpenGLMeshLoader19 - sky\Debug\OpenGLMeshLoader19.exe
+D:\github\other\EscapeTheIsland\Debug\OpenGLMeshLoader19.exe
